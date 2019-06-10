@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/up209d/just-a-git-test/issues"
   },
-  "homepage": "https://github.com/up209d/just-a-git-test#readme"
+  "homepage": "https://github.com/up209d/just-a-git-test#readme",
+  "dependencies": {
+    "webpack": "^4.33.0"
+  }
 }
